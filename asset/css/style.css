@@ -1,0 +1,36 @@
+#testimonios {
+    text-align: center;
+    margin: 5%;
+}
+
+#card {}
+
+#Secform {
+    margin-top: 5%;
+    background-color: salmon;
+    
+}
+
+#form {
+    max-width: 70%;
+    color: white;
+    margin: auto;
+    padding-bottom: 5%;
+
+}
+
+#titleContact {
+    text-align: center;
+    padding: 5%;
+}
+
+.btn {
+    background-color: whitesmoke;
+    color: rgb(104, 101, 101);
+}
+
+#icons {
+    margin: auto;
+    padding: 1%;
+    text-align: center;
+}
